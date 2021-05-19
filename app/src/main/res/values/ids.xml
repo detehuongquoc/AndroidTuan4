@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgBtnSub" type="id" />
+    <item name="imgBtnPlus" type="id" />
+    <item name="quantityProduct" type="id" />
+    <item name="txtDonGia" type="id" />
+</resources>
